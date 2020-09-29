@@ -1,0 +1,83 @@
+
+#landing {background-color: #fffbdb;}
+#landing h1 {background-color: #7776bc;
+             font-family: monospace;
+             color: white;
+             text-align: center}
+#landing h2 {background-color: #cdc7e5;
+             font-family: monospace;
+             color: white;
+             text-align: center}
+#landing h3 {background-color: lavender;
+             font-family: monospace;
+             color: dimgray;
+             border-width: 2px;
+             border-color: black;
+             text-align: center}
+#landing button {background-color: #7776bc;
+             font-family: monospace;
+             color: white;
+             text-align: center}
+#landing p {text-align: center;
+            background-color: lavenderblush}
+
+
+
+#dashboard {background-color: #fffbdb;}
+#dashboard h1 {background-color: #FF674D;
+             font-family: monospace;
+             color: white;
+             text-align: center}
+#dashboard h3 {background-color: #ffec51;
+             font-family: monospace;
+             color: white;
+             text-align: center}
+#dashboard h2 {background-color: #ffec51;
+             font-family: monospace;
+             color: black;
+             text-align: center}
+#dashboard p {background-color: #ffec51;
+             font-family: monospace;
+             color: white;
+             text-align: center}
+#dashboard button {background-color: #FF674D;
+             font-family: monospace;
+             color: white;
+             text-align: center}
+#dashboard #yourtype {
+             border: 3px solid #FF674D;
+             text-align: center;
+             font-family: monospace;
+             font-size: 300%;
+             margin: 10px auto 10px auto}
+#dashboard #yourtype th {
+             padding-left: 10px;  
+             padding-right: 10px}
+#dashboard #pairingstable {
+             border: 3px solid #ffec51;
+             text-align: center;
+             font-family: monospace;
+             font-size: 200%;
+             margin: 15px auto 15px auto;
+             padding: 15px;
+             border-spacing: 10px 7px}
+
+
+
+#butwhy {background-color: #fffbdb;}
+#butwhy h1 {background-color: #4d6f53;
+             font-family: monospace;
+             color: white;
+             text-align: center}
+#butwhy h2 {background-color: darkseagreen;
+             font-family: monospace;
+             color: white;
+             text-align: center}
+#butwhy h3 {background-color: #285c47;
+             font-family: monospace;
+             color: white;
+             text-align: center}
+#butwhy button {background-color: #4d6f53;
+             font-family: monospace;
+             color: white;
+             text-align: center}

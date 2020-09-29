@@ -1,0 +1,19 @@
+[
+    {
+    "withdrawn": [{
+        "nassertive": 72,
+        "ndutiful": 67,
+        "nwithdrawn": 1
+        }],
+    "assertive": [{
+        "nassertive": 1,
+        "ndutiful": 1,
+        "nwithdrawn": 1
+        }],
+    "dutiful": [{
+        "nassertive": 1,
+        "ndutiful": 1,
+        "nwithdrawn": 1
+        }]
+    }
+]
