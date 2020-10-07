@@ -19,7 +19,7 @@
              color: white;
              text-align: center}
 #landing p {text-align: center;
-            background-color: lavenderblush}
+            font-family:monospace;}
 
 
 
@@ -42,15 +42,14 @@
              text-align: center}
 #dashboard button {background-color: #FF674D;
              font-family: monospace;
-             color: white;
-             text-align: center}
-#dashboard #yourtype {
+             color: white;}
+#dashboard #key {
              border: 3px solid #FF674D;
              text-align: center;
              font-family: monospace;
-             font-size: 300%;
+             font-size: 200%;
              margin: 10px auto 10px auto}
-#dashboard #yourtype th {
+#dashboard #key th {
              padding-left: 10px;  
              padding-right: 10px}
 #dashboard #pairingstable {
@@ -58,9 +57,48 @@
              text-align: center;
              font-family: monospace;
              font-size: 200%;
-             margin: 15px auto 15px auto;
+             margin: auto;
              padding: 15px;
-             border-spacing: 10px 7px}
+             border-spacing: 10px 7px;
+             float: auto;
+             position: auto;}
+#dashboard #women {
+             float: center;
+             width: 600px;
+             font-family: monospace;}
+#dashboard #men {
+             float: center;
+             width: 600px;
+             font-family: monospace;}
+#dashboard #C {
+             color: green;}
+#dashboard #C:hover {
+             background-color: darkseagreen;}
+#dashboard #U {
+             color: skyblue;}
+#dashboard #U:hover {
+             background-color: blue;}
+#dashboard #F {
+             color: deeppink;}
+#dashboard #F:hover {
+             background-color: pink;}
+#dashboard #S:hover {
+             background-color: darkgrey;}
+#dashboard #Common {
+             color: green;}
+#dashboard #Common:hover {
+             background-color: darkseagreen;}
+#dashboard #Uncommon {
+             color: skyblue;}
+#dashboard #Uncommon:hover {
+             background-color: blue;}
+#dashboard #Frequent {
+             color: deeppink;}
+#dashboard #Frequent:hover {
+             background-color: pink;}
+#dashboard #Standard:hover {
+             background-color: darkgrey;}
+             
 
 
 
@@ -76,8 +114,37 @@
 #butwhy h3 {background-color: #285c47;
              font-family: monospace;
              color: white;
-             text-align: center}
+             text-align: center;
+             margin-left: 430;
+             font-size: 150%}
 #butwhy button {background-color: #4d6f53;
              font-family: monospace;
              color: white;
              text-align: center}
+#butwhy #matches {
+             border: 3px solid #ffec51;
+             text-align: center;
+             font-family: monospace;
+             font-size: 150%;
+             margin: auto;
+             padding: 15px;
+             border-spacing: 10px 7px;
+             float: left;
+             color: white;
+             background-color: #4d6f53}
+#butwhy h4 {
+             font-size: 300%;
+             text-align: center;
+             font-family: monospace;
+             color: #285c47;
+             margin-top: 0px;
+             margin-bottom: 0px}
+#butwhy p {
+             text-align: center;
+             font-family: monospace;}
+#butwhy h5 {background-color: #285c47;
+             font-family: monospace;
+             color: white;
+             text-align: center;
+             font-size: 150%}
+
